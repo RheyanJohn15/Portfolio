@@ -41,6 +41,36 @@ const worktimeline = [{
         where: "2023",
         date: "2026",
     },
+    {
+        jobtitle: "LambdaTest Test Automation Professional Certificate",
+        where: "2023",
+        date: "LinkedIn",
+    },
+    {
+        jobtitle: "ServiceNow IT Leadership Professional Certificate",
+        where: "2023",
+        date: "LinkedIn",
+    },
+    {
+        jobtitle: "LambdaTest Software Testing Professional Certificate",
+        where: "2023",
+        date: "LinkedIn",
+    },
+    {
+        jobtitle: "Career Essentials in Cybersecurity by Microsoft and LinkedIn ",
+        where: "2023",
+        date: "LinkedIn",
+    },
+    {
+        jobtitle: "Career Essentials in GitHub Professional Certificate",
+        where: "2023",
+        date: "LinkedIn",
+    },
+    {
+        jobtitle: "Career Essentials in Software Development by Microsoft and LinkedIn",
+        where: "2023",
+        date: "LinkedIn",
+    },
 ];
 
 const skills = [
