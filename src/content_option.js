@@ -1,5 +1,8 @@
 import Pic from "./assets/images/myPic.jpg";
 import Port1 from "./assets/images/port1.png";
+import Port2 from "./assets/images/port2.png";
+import Port3 from "./assets/images/port3.png";
+import Port4 from "./assets/images/port4.png";
 const logotext = "RHEYAN";
 const meta = {
     title: "Rheyan John Blanco",
@@ -115,12 +118,27 @@ const services = [{
    
 ];
 
-const dataportfolio = [{
+const dataportfolio = [
+    {
         img: Port1,
         description: "A web base faculty performance evaluation system for notre dame",
         link: "https://perfometrics-notre-dame.com/",
     },
-   
+    {
+        img: Port2,
+        description: "A Business to consumer website that have a backend system used by the receptionist of the business to log customers and alternatively customer can login through the app to scan QR code to login and more feature, ~Laravel 9",
+        link: "https://orangeshire.com/",
+    },
+    {
+        img: Port3,
+        description: "A Mini CRM System, and attendance tracking for the employee of Core Support Hub- Laravel 10",
+        link: "https://coresupporthub.com/admin",
+    },
+    {
+        img: Port4,
+        description: "An On going react project for coresupport hub website and system using NextJS",
+        link: "https://coresupporthub.vercel.app/",
+    },
 ];
 
 const contactConfig = {
